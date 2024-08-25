@@ -1,5 +1,8 @@
 ## Tableau: CitiBike Analysis
 
+<div style="text-align:center"><img src="Images/citibike.jpeg" alt="Dashboard" width="500"/></div>
+</br>
+
 ### 1. Overview
 
 This project focuses on analysing data from the Citi Bike Program, the largest bikeshare program in the United States, to uncover unexpected phenomena.
@@ -27,17 +30,24 @@ Key insights derived from the analyses:
 
 - August emerged as the busiest month, with ride numbers exceeding twice the count of the least active month, February. Understanding peak and off-peak periods is vital for effective planning of operations such as staffing, maintenance, and marketing campaigns.
 
-SCREENSHOT
+<div style="text-align:center"><img src="Images/Rides_month.png" alt="Line chart" width="600"/>
+</div>
+</br>
 
 - During peak seasons, notably summer, there was a substantial increase of almost 9 percentage points in the proportion of casual users. This finding suggests the need for a specialised program to support and inform casual members during these periods.
 
-SCREENSHOT
+<div style="text-align:center"><img src="Images/Dashboard.png" alt="Dashboard" width="600"/></div>
+</br>
 
 - A significant volume of trips originating in Jersey City concluded at bike stations in neighboring New York City, primarily on Manhattan Island. This trend underscores the importance of optimising logistics to prevent station shortages in Jersey City.
 
-SCREENSHOT
+<div style="text-align:center"><img src="Images/Map_end_statios.png" alt="Dashboard" width="600"/></div>
+</br>
 
 - Several stations recorded only a single ride throughout the entire year. To enhance operational efficiency and improve customer experience, it is recommended that these underutilised stations be either deactivated or relocated to busier areas.
+
+<div style="text-align:center"><img src="Images/Map_one_ride.png" alt="Dashboard" width="600"/></div>
+</br>
 
 ### 4. Data Source and Other Resources
 
