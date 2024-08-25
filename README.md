@@ -7,7 +7,7 @@
 
 This project focuses on analysing data from the Citi Bike Program, the largest bikeshare program in the United States, to uncover unexpected phenomena.
 
-The complete analysis, published in Tableau Public is available for consultation at https://public.tableau.com/app/profile/fabiano.santos7780/viz/Challenge18-TableauCitiBike/CitiBikePresentation?publish=yes.
+The complete analysis, published in Tableau Public, is available for consultation at https://public.tableau.com/app/profile/fabiano.santos7780/viz/Challenge18-TableauCitiBike/CitiBikePresentation?publish=yes.
 
 ### 2. Resources
 
